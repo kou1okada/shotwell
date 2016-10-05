@@ -94,7 +94,6 @@ PKG_CHECK_MODULES(SHOTWELL, [
                              gstreamer-plugins-base-1.0 >= 1.0.0
                              gstreamer-pbutils-1.0 >= 1.0.0
                              gtk+-3.0 >= 3.12.2
-                             gudev-1.0 >= 145
                              libexif >= 0.6.16
                              libgphoto2 >= 2.5.0
                              libraw >= 0.13.2
